@@ -4,14 +4,14 @@ This Python script creates silly stories based on words you provide!
 
 ## How to Play
 
-1.  **Run the Python script** (e.g., `python silly_story.py`).
+1.  **Run the Python script** (e.g., `py_story_game.py`).
 2.  The script will ask you to enter different kinds of words (nouns, adjectives, verbs, places).
 3.  Type in the words and press Enter.
 4.  The script will create a silly story using your words!
 
 ## Files
 
-* `silly_story.py`: The Python code for the silly story generator.
+* `py_story_game.py`: The Python code for the silly story generator.
 
 ## How it Works
 
